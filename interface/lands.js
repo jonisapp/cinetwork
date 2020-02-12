@@ -1,0 +1,21 @@
+export default LANDS = {
+  'AU': 'Australie',
+  'BE': 'Belgique',
+  'CA': 'Canada',
+  'CH': 'Suisse',
+  'CN': 'Chine',
+  'CZ': 'République tchèque',
+  'DE': 'Allemagne',
+  'ES': 'Espagne',
+  'FI': 'Finlande',
+  'FR': 'France',
+  'GB': 'Royaume-Uni',
+  'IT': 'Italie',
+  'KR': 'Corée du Sud',
+  'LU': 'Luxembourg',
+  'MX': 'Mexique',
+  'NZ': 'Nouvelle-Zélande',
+  'PL': 'Pologne',
+  'SE': 'Suède',
+  'US': 'États-Unis'
+};
